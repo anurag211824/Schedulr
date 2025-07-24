@@ -42,7 +42,7 @@ export default function Home() {
   return (
     <main className="container mx-auto px-4 py-16">
       {/* Hero section */}
-      <div className="flex flex-col lg:flex-row items-center justify-between gap-12 mb-24">
+      <div className=" p-2 flex flex-col lg:flex-row items-center justify-between gap-12 mb-24">
         <div className="lg:w-1/2">
           <h1 className="text-7xl font-extrabold pb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
             Smart Scheduling Solutions
